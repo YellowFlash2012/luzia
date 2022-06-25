@@ -1,0 +1,82 @@
+div.footer {
+    background-color: #15558d;
+    color: #fff;
+    margin-top: 5rem;
+}
+
+div.footer h5 {
+    color: #fff;
+    font-weight: bolder;
+}
+
+div.zone-one {
+    border-bottom: 1px solid #666;
+    color: #fff;
+}
+
+div.zone-one a {
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+div.zone-one .arrow-icon {
+    margin-right: 0.5rem;
+}
+
+div.zone-one span:hover {
+    padding-left: 1rem;
+    font-style: italic;
+    transition: all 0.5s ease-in-out;
+}
+
+div.zone-one li {
+    margin: 1rem 0;
+}
+
+div.branding {
+    width: 15rem;
+    
+}
+
+div.footer-menu {
+    width: 70%;
+}
+
+div.footer-menu ul {
+    margin-left: -2rem;
+}
+
+.menu-one, .menu-two {
+    
+    width: 15rem;
+}
+
+div.menu-three {
+width: 15rem;
+}
+
+div.menu-three .icon {
+    margin-right: 0.5rem;
+}
+
+.react-icons {
+    cursor: pointer;
+    font-size: 2rem;
+    margin-right: 1rem;
+    color: #fff;
+}
+
+.react-icons:hover {
+    color: aqua;
+    transition: all 1s ease-in-out;
+}
+
+div.zone-two a {
+    color: #fff;
+    text-decoration: none;
+}
+
+div.zone-two a:hover {
+    color: aqua;
+}
